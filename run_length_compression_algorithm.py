@@ -1,4 +1,4 @@
-def compress2(s):
+def run_length_compression(s):
     # run length compression algorithm
     r = ""
     l = len(s)
